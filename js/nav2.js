@@ -3,7 +3,8 @@ $(document).ready(function() {
     const num = index + 1;
     $( this ).addClass("dropdown-menu-" + num);
   });
-  
+
+  $(".dropdown-menu-1").append('<li><a href="https://bccandataanalytics.shinyapps.io/BCSummary" target="_blank">BC Summary</a></li>');
   $(".dropdown-menu-1").append('<li><a href="https://bccandataanalytics.shinyapps.io/CovidReport" target="_blank">COVID-19 Impact Statement</a></li>');
   $(".dropdown-menu-1").append('<li><a href="https://bccandataanalytics.shinyapps.io/UserGuide" target="_blank">General User Guide</a></li>');
   $(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/IncidenceCounts" target="_blank">BC: New Cancer Diagnoses</a></li>');
