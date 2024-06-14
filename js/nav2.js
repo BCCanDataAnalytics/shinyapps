@@ -20,6 +20,7 @@ $(document).ready(function() {
   $(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/PrevalenceCounts" target="_blank">BC: Number of Prevalent Cases</a></li>');
   $(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/RegionalPrevalenceCounts/" target="_blank">Regional: Prevalence</a></li>');
   $(".dropdown-menu-5").append('<li><a href="https://bccandataanalytics.shinyapps.io/IncidenceProjections/" target="_blank">BC/Regional: Estimated New Cancer Diagnoses</a></li>');
+  $(".dropdown-menu-5").append('<li><a href="https://bccandataanalytics.shinyapps.io/RegionalProjection/" target="_blank">Regional: Estimated New Cancer Diagnoses</a></li>');
   $(".dropdown-menu-6").append('<li><a href="https://bccandataanalytics.shinyapps.io/LifetimeRiskofBeingDiagnosed/" target="_blank">BC: Lifetime Risk of being Diagnosed</a></li>');
   $(".dropdown-menu-6").append('<li><a href="https://bccandataanalytics.shinyapps.io/LifetimeRiskOfDying/" target="_blank">BC: Lifetime Risk of Dying</a></li>');
   $(".dropdown-menu-7").append('<li><a href="https://bccandataanalytics.shinyapps.io/IncidCreateYourOwnTable/" target="_blank">BC: New Cancer Diagnoses</a></li>');
