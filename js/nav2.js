@@ -23,7 +23,7 @@ $(document).ready(function() {
 	  $(".dropdown-menu-5").append('<li><a href="https://bccandataanalytics.shinyapps.io/RegionalProjection/" target="_blank">Regional: Estimated New Cancer Diagnoses</a></li>');
 	  $(".dropdown-menu-6").append('<li><a href="https://bccandataanalytics.shinyapps.io/LifetimeRiskofBeingDiagnosed/" target="_blank">BC: Lifetime Risk of being Diagnosed</a></li>');
 	  $(".dropdown-menu-6").append('<li><a href="https://bccandataanalytics.shinyapps.io/LifetimeRiskOfDying/" target="_blank">BC: Lifetime Risk of Dying</a></li>');
-	  $(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/StageAtDiagnosis" target="_blank">BC: Stage at Diagnosis</a></li>');
+	  $(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/StageAtDiagnosis/" target="_blank">BC: Stage at Diagnosis</a></li>');
 	  $(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/IncidCreateYourOwnTable/" target="_blank">BC: Create Your Own Table (Counts)</a></li>');
 	  $(".dropdown-menu-3").append('<li><a href="https://bccandataanalytics.shinyapps.io/MortCreateYourOwnTable/" target="_blank">BC: Create Your Own Table (Counts)</a></li>');
 	  $(".dropdown-menu-6").append('<li><a href="https://bccandataanalytics.shinyapps.io/SurvivalRate/" target="_blank">BC: Survival Rate</a></li>');
