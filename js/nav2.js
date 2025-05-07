@@ -28,7 +28,7 @@ $(document).ready(function() {
 	  $(".dropdown-menu-6").append('<li><a href="https://bccandataanalytics.shinyapps.io/SurvivalRate/" target="_blank">BC: Survival Rate</a></li>');
 	  $(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/PrevalenceCountsOverTime/" target="_blank">BC/Regional: Prevalence Over Time</a></li>');
 	  $(".dropdown-menu-7").append('<li><a href="https://bccandataanalytics.shinyapps.io/RadiationTherapy/" target="_blank">BC: Radiation Therapy Utilization</a></li>');
-	  $(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/StageAtDiagnosis/" target="_blank">BC: Stage at Diagnosis</a></li>');
+	  $(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/StageAtDiagnosis/" target="_blank">BC/Regional: Stage at Diagnosis</a></li>');
  
   /*$(".dropdown-menu-5").append('<li><a href="https://bccandataanalytics.shinyapps.io/CreateTableMortalityCounts" target="_blank">Cancer Deaths</a></li>');*/
 });
