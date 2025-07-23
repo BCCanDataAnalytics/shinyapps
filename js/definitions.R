@@ -9,3 +9,4 @@ p("Most cancers are named after the part of the body where they start. 'Cancer T
 p("'Cancer Subtype' enables the user to obtain information at a more detailed breakdown of the cancers that fall within similar body systems defined by the 'Cancer Type'. If data is required for the cancer type overall and not at the cancer subtype level then the user can select the 'all' category within 'Cancer Subtype'. For details on the groupings and coding classifications, please see the",
                               tags$a(href="http://www.bccancer.bc.ca/statistics-and-reports-site/Documents/cancer%20definitions%20table_20240910.pdf", target="_blank", "glossary.")," Note, ‘Respiratory System – Other and Unspecified’ is combined with ‘All Other and Unspecified Cancers’ due to the small number of cases for this subtype of cancer.")
 
+http://www.bccancer.bc.ca/statistics-and-reports-site/Documents/cancer%20definitions%20table_20240910.pdf
