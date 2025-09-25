@@ -30,9 +30,12 @@ $(document).ready(function() {
 	  $(".dropdown-menu-7").append('<li><a href="https://bccandataanalytics.shinyapps.io/RadiationTherapy/" target="_blank">BC: Radiation Therapy Utilization</a></li>');
 	  $(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/StageAtDiagnosis/" target="_blank">BC/Regional: Stage at Diagnosis</a></li>');
 	  $(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/LHA/?main=incidence" target="_blank">Local health area incidence</a></li>');
+	  $(".dropdown-menu-3").append('<li><a href="https://bccandataanalytics.shinyapps.io/LHA/?main=mortality" target="_blank">Local health area mortality</a></li>');
+	  $(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/LHA/?main=prevalence" target="_blank">Local health area prevalence</a></li>');
  
   /*$(".dropdown-menu-5").append('<li><a href="https://bccandataanalytics.shinyapps.io/CreateTableMortalityCounts" target="_blank">Cancer Deaths</a></li>');*/
 });
+
 
 
 
