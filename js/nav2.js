@@ -16,7 +16,7 @@ $(document).ready(function() {
 	  $(".dropdown-menu-3").append('<li><a href="https://bccandataanalytics.shinyapps.io/MortalityCrudeRates" target="_blank">BC: Crude Death Rates</a></li>');
 	  $(".dropdown-menu-3").append('<li><a href="https://bccandataanalytics.shinyapps.io/MortalityAgeStdRates" target="_blank">BC: Age-standardized Cancer Mortality Rates</a></li>');
 	  $(".dropdown-menu-3").append('<li><a href="https://bccandataanalytics.shinyapps.io/MortalityRegionalCounts" target="_blank">BC/Regional: Cancer Deaths</a></li>');
-	  $(".dropdown-menu-3").append('<li><a href="https://bccandataanalytics.shinyapps.io/StandardizedMortalityRatio/" target="_blank">BC/Regional: AtanSardized Cancer Mortality Ratio</a></li>');
+	  $(".dropdown-menu-3").append('<li><a href="https://bccandataanalytics.shinyapps.io/StandardizedMortalityRatio/" target="_blank">BC/Regional: Standardized Cancer Mortality Ratio</a></li>');
 	  $(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/PrevalenceCounts" target="_blank">BC: Number of Prevalent Cases</a></li>');
 	  $(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/RegionalPrevalenceCounts/" target="_blank">Regional: Prevalence</a></li>');
 	  $(".dropdown-menu-5").append('<li><a href="https://bccandataanalytics.shinyapps.io/IncidenceProjections/" target="_blank">BC/Regional: Estimated New Cancer Diagnoses</a></li>');
@@ -32,4 +32,5 @@ $(document).ready(function() {
  
   /*$(".dropdown-menu-5").append('<li><a href="https://bccandataanalytics.shinyapps.io/CreateTableMortalityCounts" target="_blank">Cancer Deaths</a></li>');*/
 });
+
 
