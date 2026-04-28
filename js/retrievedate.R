@@ -11,3 +11,6 @@ p("Contact:", tags$a(href="mailto:datareq@bccancer.bc.ca", target="_blank", "dat
 
 # For 2023 data
 p("Date Retrieved:  30 May 2025")
+
+# For 2024 childhood data
+p("Date Retrieved:  19 June 2025")
