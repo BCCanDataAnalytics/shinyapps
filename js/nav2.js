@@ -33,6 +33,10 @@ $(document).ready(function() {
 	  $(".dropdown-menu-3").append('<li><a href="https://bccandataanalytics.shinyapps.io/LHAstatistics/?main=mortality" target="_blank">Local Health Area Mortality</a></li>');
 	  $(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/LHAstatistics/?main=prevalence" target="_blank">Local Health Area Prevalence</a></li>');
 	  $(".dropdown-menu-6").append('<li><a href="https://bccandataanalytics.shinyapps.io/SurvivalbyStage/" target="_blank">BC: Survival Rate by Stage</a></li>');
+	  $(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/ChildhoodCancerBurden/?main=incidence" target="_blank">Childhood Cancer Incidence</a></li>');
+	  $(".dropdown-menu-3").append('<li><a href="https://bccandataanalytics.shinyapps.io/ChildhoodCancerBurden/?main=mortality" target="_blank">Childhood Cancer Mortality</a></li>');
+	  $(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/ChildhoodCancerBurden/?main=prevalence" target="_blank">Childhood Cancer Prevalence</a></li>');
+	
  
   /*$(".dropdown-menu-5").append('<li><a href="https://bccandataanalytics.shinyapps.io/CreateTableMortalityCounts" target="_blank">Cancer Deaths</a></li>');*/
 });
