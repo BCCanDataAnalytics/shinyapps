@@ -9,8 +9,8 @@ p("Date Retrieved:  07 Sep 2023")
 p("Analysis by: Data and Analytics, BC Cancer")
 p("Contact:", tags$a(href="mailto:datareq@bccancer.bc.ca", target="_blank", "datareq@bccancer.bc.ca"))
 
-# For 2023 data
-p("Date Retrieved:  30 May 2025")
+# For 2024 data
+p("Date Retrieved:  5 March 2026")
 
 # For 2024 childhood data
 p("Date Retrieved:  5 March 2026")
