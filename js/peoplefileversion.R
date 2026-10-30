@@ -1,2 +1,2 @@
-# PEOPLE file version for 2022 data
-p("PEOPLE 2024")
+# PEOPLE file version for 2024 data
+p("PEOPLE 2025")
